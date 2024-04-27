@@ -1,5 +1,5 @@
 # VSDSquadron-mini-internship
-![Block diagram](https://github.com/SwapnanilChakraborty/VSDSquadron-mini-internship/assets/167600451/b29bd713-f07e-45f3-8e24-4082b0792b83)
+
 Advanced Weather Station using BME280 Sensor and Live Weather App
 
 Overview
