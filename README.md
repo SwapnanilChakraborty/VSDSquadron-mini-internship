@@ -22,7 +22,7 @@ Temperature from -40 degree Celsius to 85 degree Celsius with an accuracy of 10 
 
 In the Advanced Weather Station using BME280 senor project ,the Vcc terminal of BME280 sensor is connected to the 3.3V supply of VSD Squadron board and the ground terminal of BME280 is connected with ground terminal of VSD Squadron . In this project we are using I2C communication protocol so the SCL/SCK (Serial Clock)pin of BME280 is connected to PC1 pin in VSD Squadron and SDA/SDI (Serial Data) is connected to the PC2 pin of VSD Squadron board  and the  board is connected to laptop via USB cable .This connection ensures that the VSD Squadron board receives and processes the data from  BME280 sensor and transmits it to the web server via USB cable.
 
-**Pin Out Diagram for Advanced Weather Station **
+Pin Out Diagram for Advanced Weather Station 
 
 ![image](https://github.com/SwapnanilChakraborty/VSDSquadron-mini-internship/assets/167600451/6b7b68c0-cc9d-4ce1-84a9-2425116554e2)
 
