@@ -3,6 +3,7 @@
 Advanced Weather Station using BME280 Sensor and Live Weather App
 
 Overview
+
 The advanced weather station using the BME280 sensor and a live weather app is a versatile and cost-effective solution for real-time weather monitoring, crucial for sectors like agriculture, aviation, and disaster management. Leveraging the precision of the BME280 sensor, this setup enhances safety, efficiency, and educational opportunities by providing accurate, real-time data on temperature, humidity, and pressure. It serves a broad array of applications from helping farmers in agricultural planning to aiding in STEM education and environmental research. This project is implemented using the BME280 sensor and  VSD Squadron microcontroller board and  functions as the BME280 sensor collects the real time data from the environment and transmits it to the web server through the VSD Squadron board and  I2C communication protocol and the web server is linked with an open weather map through API . 
 
 Components Required
